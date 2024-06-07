@@ -1,0 +1,19 @@
+/* Site Specific */
+.zsiq_flt_rel4 {
+    background-color: transparent !important;
+    color: white !important;
+    box-shadow: none !important;
+    width: auto !important;
+    padding: 0 !important;
+    height: auto !important;
+	
+    font-size: 1em !important;
+}
+.zsiq_flt_rel4 * {
+	font-family: 'Open Sans', sans-serif !important;
+}
+.zsiq_flt_rel4:before { display: none !important; }
+
+.zsiq_flt_rel4 em { display: none !important; }
+
+.zsiq_flt_rel4 span { line-height: unset !important; }
